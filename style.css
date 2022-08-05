@@ -1,0 +1,82 @@
+body{
+    text-align: center;
+    font-size: 30px;
+}
+#welcome{
+    background-image: url("2k_stars_milky_way.jpg");
+    height: 500px;
+    margin: 20px;
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+}
+.line{
+    height: 7px;
+    width: 80px;
+    margin: 8px auto;
+}
+p{
+    font-size: 20px;
+}
+#sun{
+   background-image: url("2k_sun.jpg");
+}
+
+img{
+    width: 1000;
+    height: 525;
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+.item{
+    outline: auto;
+    color: rgb(56, 212, 134);
+}
+.menu{
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+}
+.links{
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 20px;
+    font-family: fantasy;
+    display: inline;
+}
+.mercury{
+    background-image: url("2k_mercury.jpg");
+    color: rgb(255, 255, 255);
+}
+.venus{
+    background-image: url("2k_venus_atmosphere.jpg");
+    color: rgb(255, 255, 255);
+}
+.earth{
+    background-image: url("2k_earth_daymap.jpg");
+    color: rgb(255, 255, 255);
+}
+.mars{
+    background-image: url("2k_mars.jpg");
+    color: rgb(255, 255, 255);
+}
+.jupiter{
+    background-image: url("2k_jupiter.jpg");
+    color: rgb(255, 255, 255);
+}
+.saturn{
+    background-image: url("2k_saturn.jpg");
+    color: rgb(255, 255, 255);
+}
+.uranus{
+    background-image: url("2k_uranus.jpg");
+    color: rgb(255, 255, 255);
+}
+.neptune{
+    background-image: url("2k_neptune.jpg");
+    color: rgb(255, 255, 255);
+}
